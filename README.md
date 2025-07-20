@@ -29,14 +29,17 @@
 
 
 ### วิธีอัปเดต
+รันไฟล์ update.cmd เพื่ออัปเดตไฟล์ หรือรันคำสั่งด้านล่าง
 
+```bash
+git pull
+```
 
 
 ### สำหรับคนอยากแปลเพิ่ม
 3. เปิดเกมและกดลูกศร -> ที่คีย์บอร์ด
 4. กดปุ่ม Dump Localize Dict 
-5. ลองไปดู ZokuZoku สำหรับตัวช่วยแปล [ZokuZoku](https://hachimi.leadrdrk.com/docs/translation-guide/using-zokuzoku.html)
-จำเป็นต้องมี VsCode
+5. ลองไปดู [ZokuZoku](https://hachimi.leadrdrk.com/docs/translation-guide/using-zokuzoku.html) สำหรับตัวช่วยแปล (จำเป็นต้องมี VSCode)
 
 
 
