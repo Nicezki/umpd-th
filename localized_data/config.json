@@ -7,5 +7,8 @@
     "now_loading_comic_title_ellipsis": false,
     "remove_ruby": false,
     "localize_dict": "localize_dict.json",
-    "assets_dir": "assets"
+    "assets_dir": "assets",
+    "race_jikkyo_comment_dict": "race_jikkyo_comment_dict.json",
+    "race_jikkyo_message_dict": "race_jikkyo_message_dict.json",
+    "text_data_dict": "text_data_dict.json"
 }
